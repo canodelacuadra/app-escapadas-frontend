@@ -1,13 +1,10 @@
 
 
 export default function Creditos() {
-  return (
-    <>
-    <div>
-        Creditos
+    return (
+        <>
+            <div>Creditos</div>
 
-    </div>
-    
-    </>
-  )
+        </>
+    )
 }
