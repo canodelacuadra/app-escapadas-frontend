@@ -1,5 +1,6 @@
 [
     {
+        "id":0,
         "usuario": {
             "nombre": "Elisa",
             "email": "elisa@email.com",
@@ -15,6 +16,7 @@
         "observaciones": "Incluye seguro de accidentes y con guía de montaña, una ruta de 10km"
     },
     {
+         "id":1,
         "usuario": {
             "nombre": "Jesús",
             "email": "jesus@email.com",
@@ -30,6 +32,7 @@
         "observaciones": "Incluye seguro de accidentes y etnólogo, cata de 3 vinos y aperitivos"
     },
     {
+         "id":2,
         "usuario": {
             "nombre": "Vicky",
             "email": "vicky@email.com",
